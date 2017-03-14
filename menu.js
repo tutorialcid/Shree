@@ -1,0 +1,3 @@
+<script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.LXd2rgnMgOM.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCOn0B5IEPK8sRbrUMMmLv18UiwuOQ/cb=gapi.loaded_0" async=""></script>
+<script type="text/javascript">function a(){var b=window.location.href,c=b.split("?");switch(c.length){case 1:return b+"?m=1";case 2:return 0<=c[1].search("(^|&)m=")?null:b+"&m=1";default:return null}}var d=navigator.userAgent;if(-1!=d.indexOf("Mobile")&&-1!=d.indexOf("WebKit")&&-1==d.indexOf("iPad")||-1!=d.indexOf("Opera Mini")||-1!=d.indexOf("IEMobile")){var e=a();e&&window.location.replace(e)};
+</script>
